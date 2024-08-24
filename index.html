@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>Weather App</h1>
+        <div class="search-container">
+            <label for="city-select">Choose or Enter a city:</label>
+            <input list="cities" id="city-select" placeholder="Enter or select a city">
+            <datalist id="cities">
+                <option value="Ahmedabad">
+                <option value="Mumbai">
+                <option value="Delhi">
+                <option value="Bengaluru">
+                <option value="Kolkata">
+                <option value="Chennai">
+                <option value="Hyderabad">
+                <option value="Pune">
+                <option value="Jaipur">
+            </datalist>
+            <button id="search-button">Search</button>
+        </div>
+        <div class="weather-info">
+            <!-- Weather information will be displayed here -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
