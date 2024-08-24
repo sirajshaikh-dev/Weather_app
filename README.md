@@ -4,7 +4,7 @@ A simple and user-friendly web application that allows users to view the current
 
 ## Demo
 
-You can view the live demo of the app (https://comforting-stroopwafel-47181b.netlify.app/)
+You can view the live demo of the app (https://sirajshaikh-dev.github.io/Weather_app/)
 
 ## Features
 
