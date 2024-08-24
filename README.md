@@ -4,7 +4,7 @@ A simple and user-friendly web application that allows users to view the current
 
 ## Demo
 
-You can view the live demo of the app [([https://sirajshaikhdev.github.io/Task_Management_App/](https://sirajshaikh-dev.github.io/Task_Management_App/ )).](https://comforting-stroopwafel-47181b.netlify.app/)
+You can view the live demo of the app (https://comforting-stroopwafel-47181b.netlify.app/)
 
 ## Features
 
