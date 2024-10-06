@@ -20,20 +20,11 @@ You can view the live demo of the app (https://sirajshaikh-dev.github.io/Weather
 - **JavaScript (ES6):** For fetching data from the API and dynamic content rendering.
 - **OpenWeatherMap API:** To retrieve current weather data and forecasts.
 
-## Getting Started
-
-Follow these instructions to set up and run the Weather App on your local machine.
-
-### Prerequisites
-
-- A modern web browser (e.g., Chrome, Firefox, Edge).
-- An active internet connection to fetch data from the OpenWeatherMap API.
-- A text editor or IDE (e.g., Visual Studio Code) for viewing and editing the code.
 
 ### Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/sirajshaikh-dev/Weather_app.git
   ```
